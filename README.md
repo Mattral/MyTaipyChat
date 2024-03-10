@@ -1,3 +1,3 @@
 # MyTaipyChat
 
-LLM xhat bot test with taipy
+LLM chat bot test with taipy
